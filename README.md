@@ -1,3 +1,4 @@
 # hello-world
 hi peepz
-I m.akash i'm from india ...I like movies
+I M.Akash i am from india 
+i here to learm about Github
